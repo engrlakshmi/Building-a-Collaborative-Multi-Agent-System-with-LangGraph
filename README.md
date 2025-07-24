@@ -1,7 +1,8 @@
 # Building-a-Collaborative-Multi-Agent-System-with-LangGraph
 🤖 Multi-Agent System with LangGraph and Hugging Face Pipelines
 This project demonstrates a collaborative multi-agent system using https://github.com/langchain-ai/langgraph and Hugging Face Transformers. It includes summarization, question answering, and chat generation agents orchestrated in a graph-based workflow.
-#🧠 Agent Definitions
+
+🧠 Agent Definitions
 This system includes three specialized agents, each responsible for a distinct task in the workflow:
 
 1. Summarizer Agent
